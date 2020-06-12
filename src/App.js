@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import Message from './message.js';
-import { render } from '@testing-library/react';
+//import { render } from '@testing-library/react';
 
 function App() {
   var a=1;
