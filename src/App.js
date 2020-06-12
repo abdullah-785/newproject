@@ -1,11 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 import Message from './message.js';
-<<<<<<< HEAD
 //import Sweet from './sweet.js';
-=======
 import Sweet from './sweet.js';
->>>>>>> cbf96e698c1aa07d2d9977dfcdd7677ca98c71f8
 import { render } from '@testing-library/react';
 
 function App() {
