@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import Message from './message.js';
-//import Sweet from './sweet.js';
-import Sweet from './sweet.js';
 import { render } from '@testing-library/react';
 
 function App() {
