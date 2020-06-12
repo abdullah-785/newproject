@@ -1,4 +1,5 @@
 .box {
+<<<<<<< HEAD
   height: 500px;
   background-color: lightgray;
   }
@@ -7,3 +8,12 @@
     background-color: yellow;
   }
   
+=======
+height: 500px;
+background-color: lightgray;
+}
+
+.dayLight {
+  background-color: yellow;
+}
+>>>>>>> cbf96e698c1aa07d2d9977dfcdd7677ca98c71f8
